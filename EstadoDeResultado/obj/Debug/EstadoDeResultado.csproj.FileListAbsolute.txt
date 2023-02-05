@@ -1,0 +1,11 @@
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\bin\Debug\EstadoDeResultado.exe.config
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\bin\Debug\EstadoDeResultado.exe
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\bin\Debug\EstadoDeResultado.pdb
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.csproj.AssemblyReference.cache
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.Form1.resources
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.Properties.Resources.resources
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.csproj.GenerateResource.cache
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.csproj.CoreCompileInputs.cache
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.exe
+C:\Users\Nerry\Documents\PDF C#\EstadoDeResultado\obj\Debug\EstadoDeResultado.pdb
